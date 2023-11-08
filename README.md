@@ -1,5 +1,8 @@
 # PLSQL_MNS_Database
 
-Showcase of intermediate SQL skills: procedure and trigger
+Showcase of intermediate SQL skills
 
-Basic MongoDB skills
+T2: Advanced SQL Select
+T3: SQL -> JSON
+T4: PLSQL (Proceduce + Trigger)
+
